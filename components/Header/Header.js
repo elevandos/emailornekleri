@@ -15,7 +15,7 @@ const Header = () => {
         <nav className={styles.nav}>
           <ul className={styles.menu}>
             <li className={styles["menu-item"]}>
-              <a href="https://elevandos.com">Powered By Elevandos</a>
+              <a href="https://elevandos.com">Nasıl Çalışır?</a>
             </li>
             <li className={styles["menu-item"]}>
             <select value={selectedLanguage} onChange={onLanguageChange}>
