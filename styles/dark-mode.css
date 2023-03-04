@@ -1,0 +1,51 @@
+/* Dark Mode */
+body.dark-mode {
+    background: #202124;
+}
+
+body.dark-mode a {
+    color: #8AB4F8;
+}
+
+body.dark-mode input {
+    background: #303134;
+    color: #e8eaed;
+}
+
+body.dark-mode main li {
+    background: #303134;
+    color: #e8eaed;
+}
+
+body.dark-mode main li:hover {
+    background: #282828 !important;
+}
+
+body.dark-mode footer {
+    background: #171717;
+    color: #999da2;
+}
+
+body.dark-mode #resultsWrapper {
+    background: #171717;
+    color: #e8eaed;
+}
+
+body.dark-mode #suggestionWrapper::-webkit-scrollbar-track {
+    background: #303134;
+}
+
+body.dark-mode #suggestionWrapper::-webkit-scrollbar-thumb {
+    background: #282828;
+    border: 6px solid #303134;
+}
+
+body.dark-mode #infoBody{
+    background: #303134;
+    color: #e8eaed;
+}
+
+body.dark-mode select{
+    background: #303134;
+    color: #e8eaed;
+}

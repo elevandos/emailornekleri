@@ -1,0 +1,36 @@
+
+.results-wrapper {
+    margin: 40px 0;
+    box-shadow: 0 2px 3px 1px rgb(64 60 67 / 16%);
+    border-radius: 20px;
+    padding: 20px;
+    background: #fbfbfb;
+    border: 1px solid #cde8ff;
+}
+
+.result {
+    overflow: hidden;
+    white-space: pre-wrap;
+}
+
+.btn-copy {
+    padding: 6px 20px;
+    color: #fff;
+    background-color: #057ee6;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    margin-left: auto;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-bottom: 20px;
+}
+
+.btn-copy:hover{
+    box-shadow: 0 2px 3px 1px rgb(64 60 67 / 16%);
+    transition: all 0.2s;
+}
+
+.btn-copy:active{
+    background-color: #025eae;
+}

@@ -1,0 +1,36 @@
+.ad-mob{
+    display: none;
+}
+
+.banner-300x250 {
+    max-width: 350px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.banner-300x600 {
+    max-width: 300px;
+    height: auto;
+}
+
+
+.banner-728x90 {
+    max-width: 728px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.ads.sticky{
+    position: sticky;
+    top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .ad-mob{
+        display: block;
+        margin: 0 auto;
+    }
+    .ad-desktop{
+        display: none;
+    }
+  }

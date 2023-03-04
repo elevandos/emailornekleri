@@ -1,0 +1,11 @@
+.sidebar {
+    flex-shrink: 0;
+    min-width: 300px;
+    padding-left: 30px;
+}
+
+@media only screen and (max-width: 767px) {
+    .sidebar {
+        display: none;
+    }
+}
