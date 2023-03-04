@@ -105,7 +105,7 @@ const Searchbar = () => {
     <>
       <form onSubmit={formSubmitHandler} className={styles.form}>
         <div ref={ref} className={`${styles["input-wrap"]} ${suggestionList.length && styles["suggestion-active"]}`}>
-          <input className={styles["search-input"]} type="text" name="search" placeholder="Enter Email Subject or Topic..." onChange={searchInputChangeHandler} value={searchInputVal}
+          <input className={styles["search-input"]} type="text" name="search" placeholder="E-posta başlığını veya konusunu yazın..." onChange={searchInputChangeHandler} value={searchInputVal}
           />
           {suggestionList.length ? (
             <ul className={styles.suggestion} id="suggestionWrapper" onClick={listItemClickHandler}>
