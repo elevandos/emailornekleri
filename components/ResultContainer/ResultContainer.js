@@ -7,7 +7,7 @@ const ResultContainer = () => {
   return (
     resultText && (
       <div id="resultsWrapper" className={styles["results-wrapper"]}>
-        <button className={styles["btn-copy"]} onClick={onCopy}>Copy</button>
+        <button className={styles["btn-copy"]} onClick={onCopy}>Kopyala</button>
         <div className={styles.result}>{resultTextCopy}</div>
       </div>
     )
