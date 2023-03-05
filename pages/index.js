@@ -24,6 +24,7 @@ export default function Home() {
         <meta property="og:description" content="Yapay zeka ile ücretsiz email örnekleri oluşturmak için AI Email'i kullanın. İşinizi kolaylaştırmak için Elevandos tarafından oluşturuldu."/>
         <meta property="og:type" content="product"/>
         <meta property="og:image" content="assets/images/ogimg.jpg"></meta>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9178057794931029" crossorigin="anonymous"></script>
       </Head>
       
       <Header></Header>
