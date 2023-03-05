@@ -17,11 +17,11 @@ export default function Home() {
       <Head>
         <title>EmailGPT | Effortless Email Generation, Powered By OpenAI</title>
         <link rel="icon" href="assets/icons/favicon.ico" />
-        <meta name="description" content="Effortlessly craft emails with EmailGPT, the AI-powered tool that leverages GPT to generate high-quality emails"/>
-        <meta property="og:title" content="EmailGPT | Effortless Email Generation, Powered By OpenAI"/>
-        <meta property="og:site_name" content="EmailGPT"/>
-        <meta property="og:url" content="https://emailgpt.flerosoft.com/"/>
-        <meta property="og:description" content="Effortlessly craft emails with EmailGPT, the AI-powered tool that leverages GPT to generate high-quality emails"/>
+        <meta name="description" content="Bir çok dilde bireysel veya kurumsal e-posta örnekleri oluşturmak için yaoay zekadan ücretsiz faydalanın. OpenAI desteğini işinizde kullanmaya başlayın."/>
+        <meta property="og:title" content="AI Email Örnekleri | Yapay Zeka İle E-Posta Şablonları"/>
+        <meta property="og:site_name" content="Email Örnekleri"/>
+        <meta property="og:url" content="https://elevandos.com/"/>
+        <meta property="og:description" content="Yapay zeka ile ücretsiz email örnekleri oluşturmak için AI Email'i kullanın. İşinizi kolaylaştırmak için Elevandos tarafından oluşturuldu."/>
         <meta property="og:type" content="product"/>
         <meta property="og:image" content="assets/images/ogimg.jpg"></meta>
       </Head>
