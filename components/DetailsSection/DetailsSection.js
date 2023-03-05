@@ -39,16 +39,16 @@ const DetailsSection = () => {
                     <h2 className={styles['title']}>Email GPT yani Emailornekleri.com nasıl çalışır?</h2>
                 </div>
                 <div id="infoBody" className={styles['body']}>
-                    <p className={styles.para}>Saniyeler içerisinde sizin için email örnekleri oluşturabilen Open AI destekli emailornekleri.com'un kullanımı çok basittir. İşte adım adım Email Örnekleri uygulamasının kullanımı:</p>
+                    <p className={styles.para}>Saniyeler içerisinde sizin için email örnekleri oluşturabilen Open AI destekli emailornekleri com un kullanımı çok basittir. İşte adım adım Email Örnekleri uygulamasının kullanımı</p>
                     <ol className={styles.list}>
-                        <li><a href="https://emailornekleri.com">Email Örnekleri</a> web sitesine telefon veya bilgisayarınızdan giriş yapın.</li>
+                        <li>Email Örnekleri web sitesine telefon veya bilgisayarınızdan giriş yapın.</li>
                         <li>Hangi dilde sonuç almak istiyorsanız yukarıdan dil seçimini yapın.</li>
                         <li>Sayfanın ortasında yer alan arama alanına E-posta konusu veya içeriğine dair bir kelime yazın.</li>
                         <li>Karşınıza çıkan konulardan size en uygun olanı seçerek "E-posta Oluştur" butonuna tıklayın.</li>
-                        <li>E-posta konu başlığı ve e-posta içeriği yapay zeka terafından yoğunluğa bağlı bir hızla oluşturuluyor, birkaç saniye bekleyin.</li>
-                        <li>E-posta metni sizin için uygunsa "Kopyala" butonuna basarak içeriği kopyalayın ve kullanmaya başlayın.</li>
+                        <li>E-posta konu başlığı ve e-posta içeriği yapay zeka terafından yoğunluğa bağlı bir hızla oluşturuluyor birkaç saniye bekleyin</li>
+                        <li>E-posta metni sizin için uygunsa "Kopyala" butonuna basarak içeriği kopyalayın ve kullanmaya başlayın</li>
                     </ol>
-                    <p className={styles.para}>Email Örnekleri ile etkileyici e-posta örnekleri elde etmek için içerik yazarı veya teknoloji uzmanı olmanıza gerek yok. İstediğiniz konu başlığını girin ve Emailornekleri.com'un sizin için Open AI desteğiyle e-posta içeriği oluşturmasını bekleyin. İşte bu kadar basit.</p>
+                    <p className={styles.para}>Email Örnekleri ile etkileyici e-posta örnekleri elde etmek için içerik yazarı veya teknoloji uzmanı olmanıza gerek yok"." İstediğiniz konu başlığını girin ve Emailornekleri com un sizin için Open AI desteğiyle e-posta içeriği oluşturmasını bekleyin İşte bu kadar basit.</p>
                 </div>
             </div>
             <div className={'ads ad-desktop banner-728x90'}>
