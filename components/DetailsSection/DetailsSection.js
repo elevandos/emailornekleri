@@ -23,9 +23,9 @@ const DetailsSection = () => {
                     <h2 className={styles['title']}Email GPT Nedir?</h2>
                 </div>
                 <div id="infoBody" className={styles['body']}>
-                    <p className={styles.para}>EmailGPT, bir kurumsal e-posta veya bir satış & pazarlama emaili oluşturmak için OpenAI desteği ile işlerinizi hızlandırmak için tasarlandı. Sadece işiniz için değil, günlük yaşamınızda da gönderebileceğiniz onlarca e-posta şablonuna saniyeler içerisinde erişin. </p>
-                    <p className={styles.para}>Dil veya çeviri sorunu yaşayanlar için İngilizce e-posta örnekleri veya Almanca e-posta örnekleri gibi bir çok dilde hazır e-posta şablonları ücretsiz olarak sunulmaktadır. Emailornekleri.com'da işinizi kolaylaştıracak ücretsiz e-posta şablonlarına kolayca erişin. </p>
-                    <p className={styles.para}>Yapay zekanın yaşamımızdaki yerine, bizzat bizim de deneyimlediğimiz kurumsal e-posta oluşturma sorununa çözüm oluşturduk. Yeni bir satış temsilcisi veya kurumsal hayata yeni başlamış bir stajyer iseniz sizin için oldukça faydalı bir araç olacaktır. </p>
+                    <p className={styles.para}>EmailGPT, bir kurumsal e-posta veya bir satış & pazarlama emaili oluşturmak için OpenAI desteği ile işlerinizi hızlandırmak için tasarlandı"."işiniz için değil günlük yaşamınızda da gönderebileceğiniz onlarca e-posta şablonuna saniyeler içerisinde erişin</p>
+                    <p className={styles.para}>Dil veya çeviri sorunu yaşayanlar için İngilizce e-posta örnekleri veya Almanca e-posta örnekleri gibi bir çok dilde hazır e-posta şablonları ücretsiz olarak sunulmaktadır "." Emailorneklericom da işinizi kolaylaştıracak ücretsiz e-posta şablonlarına kolayca erişin. </p>
+                    <p className={styles.para}>Yapay zekanın yaşamımızdaki yerine, bizzat bizim de deneyimlediğimiz kurumsal e-posta oluşturma sorununa çözüm oluşturduk"."Yeni bir satış temsilcisi veya kurumsal hayata yeni başlamış bir stajyer iseniz sizin için oldukça faydalı bir araç olacaktır. </p>
                 </div>
             </div>
             <div className={'ads ad-desktop banner-728x90'}>
