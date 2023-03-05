@@ -22,23 +22,10 @@ const DetailsSection = () => {
      data-ad-slot="9174413719"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
             </div>
             <div className={'ads ad-mob banner-300x250'}>
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9178057794931029"
-     crossorigin="anonymous"></script>
-<!-- Email Örnekleri -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9178057794931029"
-     data-ad-slot="9174413719"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+              <img src="assets/images/elevandos-300x250.png" />
+
             </div>
             <div className={styles['info-box']}>
                 <div className={styles['head']}>
@@ -51,7 +38,7 @@ const DetailsSection = () => {
                 </div>
             </div>
             <div className={'ads ad-desktop banner-728x90'}>
-              <img src="assets/images/banner-728x90.png" />
+              <img src="assets/images/elevandos-728x90.png" />
             </div>
             <div className={'ads ad-mob banner-300x250'}>
               <img src="assets/images/banner-300x250.png" />
