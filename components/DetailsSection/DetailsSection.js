@@ -13,15 +13,7 @@ const DetailsSection = () => {
     return (
         <div className={styles['details-wrapper']}>
             <div className={'ads ad-desktop banner-728x90'}>
-              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9178057794931029"
-     crossorigin="anonymous"></script>
-<!-- Email Örnekleri -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9178057794931029"
-     data-ad-slot="9174413719"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+              <img src="assets/images/elevandos-728x90.png" />
             </div>
             <div className={'ads ad-mob banner-300x250'}>
               <img src="assets/images/elevandos-300x250.png" />
