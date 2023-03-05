@@ -31,7 +31,7 @@ export default function Home() {
         <div className={styles.container}>
         <div className={styles['inner-wrap']}>
           <div className={styles['left-wrap']}>
-            <img src="assets/images/email-yapay-zeka-ornekleri-logo.png" className={styles.logo} />
+            <img src="assets/images/email-ornekleri-logos.png" className={styles.logo} />
             <div className={styles.container}>
               <Searchbar />
               <ResultContainer />
