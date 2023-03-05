@@ -13,7 +13,7 @@ const DetailsSection = () => {
     return (
         <div className={styles['details-wrapper']}>
             <div className={'ads ad-desktop banner-728x90'}>
-              <img src="assets/images/banner-728x90.png" />
+              <img src="assets/images/elevandos-728x90.png" />
             </div>
             <div className={'ads ad-mob banner-300x250'}>
               <img src="assets/images/banner-300x250.png" />
