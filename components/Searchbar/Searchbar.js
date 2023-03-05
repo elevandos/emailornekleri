@@ -122,7 +122,7 @@ const Searchbar = () => {
           ) : null}
         </div>
         <button type="submit" className={styles.searchbtn} disabled={searchInputVal.length < 3 || isLoaderVisible} >
-          {isLoaderVisible ? ( <span className={styles["loading-spinner"]}></span> ) : ( <span>Generate email</span> )}
+          {isLoaderVisible ? ( <span className={styles["loading-spinner"]}></span> ) : ( <span>E-posta Oluştur</span> )}
         </button>
       </form>
     </>
