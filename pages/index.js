@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <AppContextProvider>
       <Head>
-        <title>EmailGPT | Effortless Email Generation, Powered By OpenAI</title>
+        <title>Email Örnekleri | Yapay Zeka Destekli ve Ücretsiz E-posta Şablonları</title>
         <link rel="icon" href="assets/icons/favicon.ico" />
         <meta name="description" content="Bir çok dilde bireysel veya kurumsal e-posta örnekleri oluşturmak için yaoay zekadan ücretsiz faydalanın. OpenAI desteğini işinizde kullanmaya başlayın."/>
         <meta property="og:title" content="AI Email Örnekleri | Yapay Zeka İle E-Posta Şablonları"/>
