@@ -58,7 +58,7 @@ export const AppContextProvider = (props) => {
    */
   const searchFormSubmitHandler = async (event, inputVal) => {
     const query = `Generate an email for: ${inputVal} | language code: ${selectedLanguage}`
-    const serverErrMsg = "OpenAI Server is temporarily unavailable due to high traffic or maintenance. Try again later!";
+    const serverErrMsg = "OpenAI Sunucusu, yoğun trafik veya bakım nedeniyle geçici olarak kullanılamıyor. Daha sonra tekrar deneyin!";
     event.preventDefault();
     if (!inputVal.trim().length) return;
     setIsLoaderVisible(true);
