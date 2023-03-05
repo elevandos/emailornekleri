@@ -20,7 +20,7 @@ const DetailsSection = () => {
             </div>
             <div className={styles['info-box']}>
                 <div className={styles['head']}>
-                    <h2 className={styles['title']}>What is EmailGPT?</h2>
+                    <h2 className={styles['title']}Email GPT Nedir?</h2>
                 </div>
                 <div id="infoBody" className={styles['body']}>
                     <p className={styles.para}>EmailGPT, bir kurumsal e-posta veya bir satış & pazarlama emaili oluşturmak için OpenAI desteği ile işlerinizi hızlandırmak için tasarlandı. Sadece işiniz için değil, günlük yaşamınızda da gönderebileceğiniz onlarca e-posta şablonuna saniyeler içerisinde erişin. </p>
@@ -36,7 +36,7 @@ const DetailsSection = () => {
             </div>
             <div className={styles['info-box']}>
                 <div className={styles['head']}>
-                    <h2 className={styles['title']}>How Does EmailGPT Work?</h2>
+                    <h2 className={styles['title']}>Email GPT yani Emailornekleri.com nasıl çalışır?</h2>
                 </div>
                 <div id="infoBody" className={styles['body']}>
                     <p className={styles.para}>Using EmailGPT is easy and intuitive. Simply enter your desired subject or topic, and let the AI-powered tool generate a high-quality email for you in seconds. Here's a step-by-step guide to using EmailGPT:</p>
